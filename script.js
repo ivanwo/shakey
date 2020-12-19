@@ -1,4 +1,4 @@
-let virbating = false;
+let vibrating = false;
 let item;
 
 function shake(){
